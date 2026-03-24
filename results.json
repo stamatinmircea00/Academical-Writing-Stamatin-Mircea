@@ -1,0 +1,3698 @@
+[
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.025674,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.010346,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.015618,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.011885,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.022456,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.018128,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.008401,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 20,
+    "time_ms": 0.000477,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.070982,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.050708,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.115995,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.047918,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.088504,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.074473,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.032285,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 50,
+    "time_ms": 0.001253,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.180188,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.191357,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.414877,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.112457,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.222777,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.130701,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.078935,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 100,
+    "time_ms": 0.002834,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 0.956737,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 5.837092,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 10.912297,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 0.729739,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 1.266018,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 0.754772,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 0.651569,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 500,
+    "time_ms": 0.02087,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 2.10325,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 21.440624,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 45.829158,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 1.66874,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 3.061582,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 1.689616,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 1.601456,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 1000,
+    "time_ms": 0.074326,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 12.40753,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 542.89281,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 1223.52272,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 10.15726,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 17.43819,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 8.31318,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 11.87661,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 5000,
+    "time_ms": 0.66068,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 27.43174,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 2175.6355,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 5964.67446,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 20.29466,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 42.95208,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 14.46154,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 29.1521,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 10000,
+    "time_ms": 1.81372,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 151.41715,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 154.0563,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 283.3461,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 91.8254,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 223.15265,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 50000,
+    "time_ms": 11.78725,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 333.8889,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 314.1328,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 630.9181,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 167.1627,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 532.2164,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 100000,
+    "time_ms": 21.8719,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 2115.288,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 1852.5325,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 3627.6367,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 848.9715,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 3883.1948,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 500000,
+    "time_ms": 159.1744,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 4400.3761,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 4216.2405,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 7910.1146,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 1758.3019,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 9839.8354,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Random",
+    "n": 1000000,
+    "time_ms": 331.7609,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.02588,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.00297,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.001746,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.010136,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.032942,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.007011,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.00521,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 20,
+    "time_ms": 0.000296,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.042586,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.005938,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.003234,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.036165,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.201413,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.014056,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.018718,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 50,
+    "time_ms": 0.000513,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.128888,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.010645,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.00554,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.076837,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.202797,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.026955,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.044717,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 100,
+    "time_ms": 0.000902,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.693628,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.057541,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.03096,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.406051,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 1.388605,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.119798,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.287992,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 500,
+    "time_ms": 0.00296,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 1.428194,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 0.158368,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 0.084746,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 1.051036,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 3.101536,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 0.239034,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 0.698454,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 1000,
+    "time_ms": 0.005924,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 8.40366,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 0.70797,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 0.34612,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 6.40685,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 21.84178,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 1.40778,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 4.94241,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 5000,
+    "time_ms": 0.03177,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 19.69754,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 1.16594,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 0.77404,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 14.96006,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 50.44246,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 2.83132,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 12.84116,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 10000,
+    "time_ms": 0.06628,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 103.61705,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 87.68975,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 277.7829,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 15.98675,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 78.7624,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 50000,
+    "time_ms": 0.77675,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 224.1407,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 188.9873,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 633.5165,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 31.6397,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 173.7121,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 100000,
+    "time_ms": 1.8436,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 1212.4399,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 1018.9012,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 3174.3898,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 174.5011,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 898.0229,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 500000,
+    "time_ms": 8.1465,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 2478.8268,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 2066.4959,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 6454.4801,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 316.0719,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 1817.258,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Sorted",
+    "n": 1000000,
+    "time_ms": 15.0808,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.018426,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.017454,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.025311,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.012245,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.044284,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.006615,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.009704,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 20,
+    "time_ms": 0.000355,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.068493,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.102501,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.141248,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.037564,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.069932,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.011497,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.023327,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 50,
+    "time_ms": 0.000474,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.1334,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.436358,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.607193,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.085296,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.194937,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.023818,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.063389,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 100,
+    "time_ms": 0.001036,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 0.833095,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 10.735621,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 14.438265,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 0.456182,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 1.142932,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 0.115738,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 0.538336,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 500,
+    "time_ms": 0.003807,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 1.761398,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 44.581002,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 58.87675,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 0.909254,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 2.809892,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 0.360576,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 1.507268,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 1000,
+    "time_ms": 0.006314,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 9.15077,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 1087.46677,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 1553.22794,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 6.52966,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 16.84153,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 1.17796,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 7.66142,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 5000,
+    "time_ms": 0.03476,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 19.9346,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 4456.05606,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 6247.81884,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 16.96236,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 38.8267,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 2.3496,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 18.2319,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 10000,
+    "time_ms": 0.08376,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 101.06765,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 78.3854,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 253.43575,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 12.33125,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 116.13485,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 50000,
+    "time_ms": 0.65905,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 208.9852,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 160.4857,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 496.3005,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 30.0513,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 228.9334,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 100000,
+    "time_ms": 2.0314,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 1149.2534,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 935.7414,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 2855.0531,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 135.3178,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 1283.2713,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 500000,
+    "time_ms": 8.7334,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 2369.5703,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 2019.1411,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 6343.4044,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 325.9484,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 2809.4698,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Reverse",
+    "n": 1000000,
+    "time_ms": 16.3444,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.024694,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.003042,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.003077,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.010644,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.042882,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.006298,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.005784,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 20,
+    "time_ms": 0.000422,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.045794,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.004667,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.005679,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.033029,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.089959,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.013953,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.01904,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 50,
+    "time_ms": 0.000825,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.119044,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.010243,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.010596,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.072792,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.181118,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.022355,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.037143,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 100,
+    "time_ms": 0.001467,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.596693,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.055463,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.057901,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.464615,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 1.341341,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.114775,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.286386,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 500,
+    "time_ms": 0.005187,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 1.369904,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 0.13157,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 0.137526,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 1.13026,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 2.959104,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 0.277092,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 0.74232,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 1000,
+    "time_ms": 0.0114,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 8.16296,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 0.5903,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 0.72584,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 6.75205,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 19.92006,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 1.24536,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 5.86646,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 5000,
+    "time_ms": 0.06318,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 16.26032,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 0.99322,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 1.61792,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 13.31214,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 43.5289,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 3.59502,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 13.89286,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 10000,
+    "time_ms": 0.1076,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 91.6561,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 73.7921,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 238.1526,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 15.224,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 77.15055,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 50000,
+    "time_ms": 0.868,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 201.1573,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 176.4487,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 562.7756,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 38.8654,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 148.5944,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 100000,
+    "time_ms": 2.0699,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 1069.6439,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 949.747,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 3146.2785,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 142.8479,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 847.8581,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 500000,
+    "time_ms": 8.8106,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 2214.4989,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 2040.8937,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 6509.3556,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 308.7079,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 1901.252,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Almost Sorted",
+    "n": 1000000,
+    "time_ms": 21.9232,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.027629,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.006092,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.013575,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.00886,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.040173,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.006054,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.008282,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 20,
+    "time_ms": 0.000381,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.062451,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.024251,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.077171,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.030048,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.07345,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.011703,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.030528,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 50,
+    "time_ms": 0.000847,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.158964,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.122832,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.358629,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.081301,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.183869,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.031268,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.083485,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 100,
+    "time_ms": 0.002156,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 0.887297,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 2.32652,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 9.203242,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 0.627974,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 1.393622,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 0.116252,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 0.582602,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 500,
+    "time_ms": 0.010961,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 1.719228,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 10.590518,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 38.066068,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 1.236504,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 3.16935,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 0.28803,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 1.518114,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 1000,
+    "time_ms": 0.030712,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 10.72114,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 270.41678,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 1007.5604,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 8.92975,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 18.46183,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 1.2141,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 13.29418,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 5000,
+    "time_ms": 0.53957,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 24.86188,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 1081.11512,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 4100.1008,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 17.9348,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 40.6893,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 2.8596,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 27.76346,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 10000,
+    "time_ms": 0.86282,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 116.75295,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 120.451,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 249.00965,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 14.98205,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 197.4505,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 50000,
+    "time_ms": 6.36915,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 276.6266,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 252.5174,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 573.2142,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 31.1684,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 481.9954,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 100000,
+    "time_ms": 13.9126,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 1473.3951,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 1534.0905,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 3435.9955,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 171.4389,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 3137.1094,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 500000,
+    "time_ms": 78.8201,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 3191.1443,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 3198.837,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 7383.3292,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 331.8875,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 7709.6618,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Half Sorted",
+    "n": 1000000,
+    "time_ms": 171.6397,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.02929,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.01007,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.016026,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.007505,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.062255,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.003794,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.009933,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 20,
+    "time_ms": 0.000642,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.078162,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.044059,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.100252,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.017801,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.085713,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.00909,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.034626,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 50,
+    "time_ms": 0.001136,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.158887,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.195834,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.442622,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.0332,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.170412,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.00957,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.079044,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 100,
+    "time_ms": 0.003161,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 0.939716,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 4.707269,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 10.711191,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 0.237117,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 1.251444,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 0.040361,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 0.431107,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 500,
+    "time_ms": 0.018187,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 2.110356,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 20.573108,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 45.169638,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 0.378078,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 2.799698,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 0.116392,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 1.347766,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000,
+    "time_ms": 0.053334,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 11.38753,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 503.23298,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 1153.02747,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 1.82888,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 16.2903,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 0.37331,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 7.60854,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 5000,
+    "time_ms": 0.47143,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 26.7653,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 2012.68088,
+    "note": ""
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 5330.20652,
+    "note": ""
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 3.5797,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 37.10758,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 0.90212,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 17.42204,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 10000,
+    "time_ms": 0.94648,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 148.4279,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 17.4941,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 240.48475,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 4.2505,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 113.09515,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 50000,
+    "time_ms": 7.2237,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 312.4183,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 37.3007,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 539.6869,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 9.6172,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 185.0,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 100000,
+    "time_ms": 8.506,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 1565.7617,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 249.3691,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 2838.8132,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 56.7835,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 1272.2405,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 500000,
+    "time_ms": 49.2927,
+    "note": ""
+  },
+  {
+    "algo": "Merge Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 3724.5301,
+    "note": ""
+  },
+  {
+    "algo": "Insertion Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Bubble Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": null,
+    "note": "skipped (too slow)"
+  },
+  {
+    "algo": "Quick Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 435.1332,
+    "note": ""
+  },
+  {
+    "algo": "Heap Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 5787.5228,
+    "note": ""
+  },
+  {
+    "algo": "Counting Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 134.2269,
+    "note": ""
+  },
+  {
+    "algo": "Shell Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 2396.6868,
+    "note": ""
+  },
+  {
+    "algo": "Tim Sort",
+    "structure": "Flat (few vals)",
+    "n": 1000000,
+    "time_ms": 97.1067,
+    "note": ""
+  }
+]
