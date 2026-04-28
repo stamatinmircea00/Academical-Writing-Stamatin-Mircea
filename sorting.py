@@ -3,7 +3,9 @@ import random
 import statistics
 import json
 
-#Sorting Algorithms 
+# ══════════════════════════════════════════════════════════════════════════════
+# Sorting Algorithms
+# ══════════════════════════════════════════════════════════════════════════════
 
 def merge_sort(arr):
     if len(arr) <= 1:
@@ -11,7 +13,6 @@ def merge_sort(arr):
     mid = len(arr) // 2
     left  = merge_sort(arr[:mid])
     right = merge_sort(arr[mid:])
-    # Merge two sorted halves
     result, i, j = [], 0, 0
     while i < len(left) and j < len(right):
         if left[i] <= right[j]:
@@ -50,7 +51,7 @@ def bubble_sort(arr):
 def quick_sort(arr):
     if len(arr) <= 1:
         return arr
-    pivot = arr[len(arr) // 2]
+    pivot  = arr[len(arr) // 2]
     left   = [x for x in arr if x <  pivot]
     middle = [x for x in arr if x == pivot]
     right  = [x for x in arr if x >  pivot]
@@ -108,12 +109,84 @@ def shell_sort(arr):
     return a
 
 
+# ── Custom Tim Sort ────────────────────────────────────────────────────────────
+#
+# Tim Sort is a hybrid algorithm that combines Insertion Sort for small runs
+# and Merge Sort to combine those runs together.
+#
+# How it works:
+#   1. Split the array into small "runs" of size MIN_RUN (32 here).
+#   2. Sort each run in-place using Insertion Sort.
+#   3. Merge adjacent runs together using the standard merge operation,
+#      doubling the merge size each round until the whole array is sorted.
+#
+# The key insight is that Insertion Sort is very fast on small arrays
+# (low overhead, good cache behaviour), and Merge Sort is efficient for
+# combining already-sorted pieces. Together they give O(n) on sorted/nearly
+# sorted data and O(n log n) in the worst case.
+
+MIN_RUN = 32
+
+
+def _insertion_sort_inplace(a, left, right):
+    """Sort a[left:right+1] in place using Insertion Sort."""
+    for i in range(left + 1, right + 1):
+        key = a[i]
+        j = i - 1
+        while j >= left and a[j] > key:
+            a[j + 1] = a[j]
+            j -= 1
+        a[j + 1] = key
+
+
+def _merge_inplace(a, left, mid, right):
+    """Merge two sorted subarrays a[left:mid+1] and a[mid+1:right+1] in place."""
+    left_part  = a[left : mid + 1]
+    right_part = a[mid + 1 : right + 1]
+    i, j, k = 0, 0, left
+    while i < len(left_part) and j < len(right_part):
+        if left_part[i] <= right_part[j]:
+            a[k] = left_part[i];  i += 1
+        else:
+            a[k] = right_part[j]; j += 1
+        k += 1
+    while i < len(left_part):
+        a[k] = left_part[i]; i += 1; k += 1
+    while j < len(right_part):
+        a[k] = right_part[j]; j += 1; k += 1
+
+
 def tim_sort(arr):
+    """
+    Custom Tim Sort implementation.
+
+    Step 1 – sort small runs with Insertion Sort.
+    Step 2 – repeatedly merge adjacent runs, doubling size each round.
+    """
     a = arr[:]
-    a.sort()
+    n = len(a)
+
+    # Step 1: sort every slice of size MIN_RUN with Insertion Sort
+    for start in range(0, n, MIN_RUN):
+        end = min(start + MIN_RUN - 1, n - 1)
+        _insertion_sort_inplace(a, start, end)
+
+    # Step 2: merge runs of increasing size
+    size = MIN_RUN
+    while size < n:
+        for left in range(0, n, 2 * size):
+            mid   = min(left + size - 1, n - 1)
+            right = min(left + 2 * size - 1, n - 1)
+            if mid < right:          # there is a right half to merge
+                _merge_inplace(a, left, mid, right)
+        size *= 2
+
     return a
 
 
+# ══════════════════════════════════════════════════════════════════════════════
+# Algorithm registry
+# ══════════════════════════════════════════════════════════════════════════════
 
 ALGORITHMS = {
     "Merge Sort":     merge_sort,
@@ -123,23 +196,22 @@ ALGORITHMS = {
     "Heap Sort":      heap_sort,
     "Counting Sort":  counting_sort,
     "Shell Sort":     shell_sort,
-    "Tim Sort":       tim_sort,
+    "Tim Sort":       tim_sort,   # <-- our own implementation now
 }
 
 
-#Data generators
+# ══════════════════════════════════════════════════════════════════════════════
+# Data generators
+# ══════════════════════════════════════════════════════════════════════════════
 
 def gen_random(n):
     return [random.randint(0, 10 * n) for _ in range(n)]
 
-
 def gen_sorted(n):
     return list(range(n))
 
-
 def gen_reverse(n):
     return list(range(n, 0, -1))
-
 
 def gen_almost_sorted(n):
     a = list(range(n))
@@ -149,12 +221,10 @@ def gen_almost_sorted(n):
         a[i], a[i + 1] = a[i + 1], a[i]
     return a
 
-
 def gen_half_sorted(n):
-    sorted_half  = list(range(n // 2))
-    random_half  = [random.randint(0, n) for _ in range(n - n // 2)]
+    sorted_half = list(range(n // 2))
+    random_half = [random.randint(0, n) for _ in range(n - n // 2)]
     return sorted_half + random_half
-
 
 def gen_flat(n):
     return [random.randint(0, 9) for _ in range(n)]
@@ -170,30 +240,34 @@ DATA_STRUCTURES = {
 }
 
 
-#Benchmarks
+# ══════════════════════════════════════════════════════════════════════════════
+# Benchmark configuration
+# ══════════════════════════════════════════════════════════════════════════════
 
-#Sizes
 SIZES = [20, 50, 100, 500, 1_000, 5_000, 10_000, 50_000, 100_000, 500_000, 1_000_000]
 
-#Repetitions per size
 REPS = {
-    20:      2000,
-    50:      1000,
-    100:     500,
-    500:     100,
-    1_000:   50,
-    5_000:   10,
-    10_000:  5,
-    50_000:  2,
-    100_000: 1,
-    500_000: 1,
-    1_000_000: 1,
+    20:          2000,
+    50:          1000,
+    100:         500,
+    500:         100,
+    1_000:       50,
+    5_000:       10,
+    10_000:      5,
+    50_000:      2,
+    100_000:     1,
+    500_000:     1,
+    1_000_000:   1,
 }
 
-#If it takes too much time, skip and mark as None.
-SLOW_ALGOS = {"Insertion Sort", "Bubble Sort"}
-SLOW_CUTOFF = 10_000   # skip if n > this
+# Bubble Sort and Insertion Sort are O(n^2) and get skipped above this size
+SLOW_ALGOS  = {"Insertion Sort", "Bubble Sort"}
+SLOW_CUTOFF = 10_000
 
+
+# ══════════════════════════════════════════════════════════════════════════════
+# Benchmark runner
+# ══════════════════════════════════════════════════════════════════════════════
 
 def benchmark():
     results = []
@@ -204,8 +278,8 @@ def benchmark():
         print(f"{'='*50}")
 
         for n in SIZES:
-            reps   = REPS[n]
-            data   = gen_fn(n)
+            reps = REPS[n]
+            data = gen_fn(n)
 
             for algo_name, sort_fn in ALGORITHMS.items():
 
@@ -221,10 +295,10 @@ def benchmark():
 
                 times = []
                 for _ in range(reps):
-                    d  = data[:]                          
+                    d  = data[:]
                     t0 = time.perf_counter()
                     sort_fn(d)
-                    times.append((time.perf_counter() - t0) * 1_000)   # → ms
+                    times.append((time.perf_counter() - t0) * 1_000)
 
                 avg_ms = statistics.mean(times)
 
@@ -241,7 +315,9 @@ def benchmark():
     return results
 
 
-#Main point
+# ══════════════════════════════════════════════════════════════════════════════
+# Entry point
+# ══════════════════════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
     print("Sorting Algorithm Benchmark")
@@ -256,5 +332,5 @@ if __name__ == "__main__":
     with open(out_file, "w") as f:
         json.dump(data, f, indent=2)
 
-    print(f"\n✓ Benchmark complete. {len(data)} measurements saved to '{out_file}'.")
-    print("  Run build_excel.py next to generate the Excel report.")
+    print(f"\nBenchmark complete. {len(data)} measurements saved to '{out_file}'.")
+    print("Run build_excel.py next to generate the Excel report.")
